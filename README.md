@@ -1,6 +1,4 @@
-โอเค! เตรียม push ขึ้น GitHub
 
-1. สร้าง README.md:
 markdown# 📄 Document Q&A API (RAG)
 
 A production-ready RAG (Retrieval-Augmented Generation) system for document question-answering using FastAPI, LangChain, OpenAI, and ChromaDB.
