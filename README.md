@@ -1,5 +1,5 @@
 
-markdown# 📄 Document Q&A API (RAG)
+# 📄 Document Q&A API (RAG)
 
 A production-ready RAG (Retrieval-Augmented Generation) system for document question-answering using FastAPI, LangChain, OpenAI, and ChromaDB.
 
