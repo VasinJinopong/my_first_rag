@@ -1,0 +1,32 @@
+# FastAPI
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+
+# Pydantic
+pydantic==2.9.0
+pydantic-settings==2.6.0
+python-dotenv==1.0.1
+
+# Database
+sqlalchemy==2.0.36
+psycopg2-binary  # ไม่ระบุ version (ให้ pip เลือกให้)
+
+# LangChain
+langchain
+langchain-openai
+langchain-community
+langchain-core
+
+# Vector Store
+chromadb==0.5.23
+
+# Document Processing
+pypdf==5.1.0
+python-docx==1.1.2
+
+# OpenAI
+openai==1.54.4
+
+# Text Processing
+tiktoken==0.8.0

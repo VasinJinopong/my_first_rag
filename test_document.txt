@@ -1,0 +1,20 @@
+Employee Handbook - Tech Company Inc.
+
+Section 1: Work Hours
+Regular work hours are Monday to Friday, 9:00 AM to 5:00 PM.
+
+Section 2: Salary
+Base salary: $80,000 per year
+Payment: Bi-weekly
+
+Section 3: Benefits
+- Health insurance (full coverage)
+- Dental insurance
+- 15 days vacation per year
+- 401k matching up to 5%
+
+Section 4: Notice Period
+Employees must give 2 weeks notice before resignation.
+
+Section 5: Remote Work
+Remote work is allowed 2 days per week with manager approval.
