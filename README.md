@@ -277,3 +277,23 @@ Built as a learning project for RAG implementation and production FastAPI develo
 ---
 
 **⭐ Star this repo if you found it helpful!**
+
+## 🔒 Security Features
+
+- **API Key Authentication**: Middleware-based protection
+- **Rate Limiting**: Prevent abuse
+  - Upload: 5 requests/minute
+  - Query: 10 requests/minute
+  - List: 30 requests/minute
+- **Input Validation**: File type, size checks
+- **File Upload Security**: 
+  - Allowed: PDF, DOCX, TXT only
+  - Max size: 10MB
+
+### Using API Key
+
+All endpoints (except `/health`) require API key:
+```bash
+curl -H "X-API-Key: your-secret-key" \
+  http://localhost:8000/api/v1/documents/documents
+```
