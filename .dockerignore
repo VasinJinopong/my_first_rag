@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+.env
+.git/
+.gitignore
+chroma_db/
+uploads/
+*.db
+README.md
+.DS_Store
